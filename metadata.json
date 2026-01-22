@@ -1,0 +1,7 @@
+{
+  "name": "Rhino Communities Pitch Deck",
+  "description": "Interactive presentation deck for Rhino Communities & Equity Consultants showcasing partners Jason Ramshaw and Erik Peterson with Live AI narration.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
